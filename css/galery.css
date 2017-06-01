@@ -1,0 +1,75 @@
+#MCLeft
+{
+     background-color: #123;
+float: left;
+width: 25%;
+height: 100%;
+overflow: hidden;
+font-size: 16px;
+
+}
+#LeftMenu
+{
+    width: 33.3%;
+    margin-right: auto;
+    margin-left:10%;
+    margin-top:20px;
+}
+#LeftMenu>ul
+{
+   width: 100%;
+    height: 100%;
+  
+}
+#LeftMenu>ul>li
+{
+   
+    list-style: none;
+    list-style-type:none;
+}
+#LeftMenu>ul>li>a
+{
+    width: 100%;
+    display:block;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    color:#fff; 
+     
+    
+}
+#LeftMenu a:hover {   
+text-decoration:underline;   
+color:#fff;
+} 
+
+
+/**/
+#MCRigth
+{
+   
+background-color: #000;
+float:left;
+width: 75%;
+height: 100%;
+overflow: auto;
+}
+
+
+.Post
+{
+   padding: 1px;
+   display: inline-block;
+  
+   
+
+}
+.Post>figure
+{
+width: 100%;
+height: 100%;
+}
+.Post>figure>img
+{
+height: 100%;
+width: 100%;    
+}

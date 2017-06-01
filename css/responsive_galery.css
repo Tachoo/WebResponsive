@@ -1,0 +1,90 @@
+@media screen and (min-width:240px)
+{
+      #fixpost
+{
+        width: 100%;
+}
+    .Post
+{
+
+   width: 180px;
+   height: 150px;
+
+}  
+}
+@media screen and (min-width:716px)
+{
+    
+}
+
+
+
+@media screen and (min-width:845px)
+{
+    #fixpost
+{
+        width: 100%;
+}
+    .Post
+{
+
+   width: 600px;
+   height: 600px;
+
+}
+}
+@media screen and (min-width:983px)
+{
+    #fixpost
+{
+        width: 100%;
+}
+    .Post
+{
+
+   width: 350px;
+   height: 350px;
+
+}
+}
+
+@media screen and (min-width:1265px)
+{
+#fixpost
+{
+        width: 100%;
+}
+.Post
+{
+   width: 300px;
+   height: 300px;
+padding: 2px;
+
+}
+}
+
+@media screen and (min-width:1408px)
+{
+#fixpost
+{
+        width: 100%;
+}
+.Post
+{
+   width: 250px;
+   height: 250px;
+padding: 2px;
+
+}
+}
+
+@media screen and (min-width:1690px)
+{
+.Post
+{
+
+   width: 200px;
+   height: 200px;
+
+}
+}

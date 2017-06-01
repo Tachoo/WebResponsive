@@ -1,0 +1,21 @@
+#fixpost
+{
+    display: block;
+    width: 33.3%;
+    margin:  3% auto;
+}
+#fixpost>figure>
+{
+    width:400px;
+    
+}
+#fixpost>figure>img
+{
+    width: 100%;
+   
+}
+dd
+{
+    text-align: center;
+    vertical-align: middle;
+}
